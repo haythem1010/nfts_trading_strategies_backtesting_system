@@ -12,9 +12,7 @@ This project is a **comprehensive NFT trading assistant**, integrating data anal
 - [🚀 Implementation](#-implementation)
 - [📊 Dashboard](#-dashboard)
 - [📌 Screenshots](#-screenshots)
-- [📈 Example Use Case](#-example-use-case)
-- [📚 Future Improvements](#-future-improvements)
-- [📄 License](#-license)
+
 
 ---
 
@@ -40,12 +38,12 @@ This project addresses the growing complexity of NFT markets by providing data-d
 
 ### 1. Technologies Used
 
-- **Programming Language**: Python 3.x
+- **Programming Language**: Python 3.10
 - **Frameworks & Libraries**:
-  - `pandas`, `numpy`, JSON – data manipulation
+  - `pandas`, `numpy`, `JSON` – data manipulation
   - `matplotlib`, `plotly` – visualization
-  - `scikit-learn`, statsmodels, 'PyTorch'– machine learning and time series
-- **Database**: PostgreSQL
+  - `scikit-learn`, `statsmodels`, `PyTorch`– machine learning and time series
+- **Database**: `PostgreSQL`
 - **Machine Learning**: ARIMAX, Gaussian Process Regressor, Prophet
 
 ---
@@ -95,7 +93,7 @@ A visual dashboard built with **Streamlit** to:
 - Monitor backtest performance
 - Interactive filter by date, NFT collection, or strategy
 
-> 🖼️ *Add screenshots in the section below*
+
 
 ---
 
