@@ -100,13 +100,15 @@ A visual dashboard built with **Streamlit** to:
 ## 📌 Screenshots
 
 ### Strategy Signal Example
-![Buy/Sell Signal Example](screenshots/signal-example.png)
+![Buy/Sell Signal Example](importers/3.png)
 
 ### Time Series Forecast Output
-![Forecast Example](screenshots/forecast-output.png)
+![Forecast Average Trading Price](importers/4.png)
+![Forecast Floor Price ](importers/5.png)
 
 ### Pattern Recognition
-![Pattern Detection](screenshots/pattern-detection.png)
+![Pattern Detection](importers/6.png)
+![Pattern Detection](importers/7.png)
 
 ### Dashboard Interface
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](importers/1.png)
